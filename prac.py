@@ -1,4 +1,6 @@
 name = input('이름 입력: ')
 sex = input('성별 입력:')
+age = input('나이 입력: ')
 print('이름: ', name)
 print('성별: ', sex)
+print('나이: ', age)
